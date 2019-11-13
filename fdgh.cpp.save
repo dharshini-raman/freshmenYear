@@ -1,0 +1,38 @@
+//Dee Raman
+#include<iostream>
+#include<string>
+using namespace std;
+struct BOOK
+{
+    string title;
+    int pages;
+    string author;
+    bool checkedIN;
+};
+int main()
+{
+    BOOK status;
+
+    for(int i=0; i<5; i++)
+    {
+
+
+        cin>>status.title;
+        cin>>status.pages;
+        cin>>status.author;
+        status.checkedIN = 1;
+        BOOK thing[5];
+        thing[0] = status;
+        for(int j=0; j<5; j++)
+        {
+cout<<status.title<<endl;
+        cout<<status.pages<<endl;
+        cout<<status.author<<endl;
+        cout<<status.checkedIN<<endl;
+
+            
+
+        }
+
+    }
+}

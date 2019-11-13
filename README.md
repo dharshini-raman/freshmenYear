@@ -1,1 +1,1 @@
-# A collection of C++ projects created during my freshmen year in High School.
+# A collection of C++ projects created during my freshmen year in high school.

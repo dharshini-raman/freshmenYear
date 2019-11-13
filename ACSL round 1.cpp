@@ -10,12 +10,12 @@ int cards(){
     int c2;
     int c3;
     int c4;
-    int d1;
     int c5;
-    int d2;
     int c6;
-    int d3;
     int c7;
+    int d1;
+    int d2;
+    int d3;
     int pointTotal;
     int j;
 

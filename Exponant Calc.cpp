@@ -24,24 +24,3 @@ int pow(int &x, int y)
     }
     return x;
 }
-
-void output(int )
-
-
-
-
-
-
-
-
-
-   /* }
-    else{
-
-
-
-    }
-
-
-}
-*/
